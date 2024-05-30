@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 <p>
   <a href="https://www.linkedin.com/in/marta-de-la-calle/">
@@ -9,16 +9,8 @@
    <a/>
 </p>
      
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: she/her  
+- 🌱 I’m currently studying Computer Science at Universidad de Sevilla.
+- 🔭 I’m presently interested in cybersecurity and full stack development. 
+- ⚡ I like to watch tv shows and learn new languages.
+-  💭 Feel free to talk to me about AI, cybersecurity, tv shows or music.
