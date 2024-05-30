@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/marta-de-la-calle/">
-    <img src="https://img.shields.io/badge/-marta-de-la-calle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-de-la-calle/">
+    <img src="https://img.shields.io/badge/-martadelacalle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-de-la-calle/">
   <a/>
    <a href="mailto:martadelacalle2003@gmail.com">
     <img src="https://img.shields.io/badge/-martadelacalle2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martadelacalle2003@gmail.com">
